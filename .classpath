@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/jetty/javax.annotation-1.1.0.v201108011116.jar"/>
+	<classpathentry kind="lib" path="lib/jetty/jetty-ajp-8.1.17.v20150415.jar"/>
+	<classpathentry kind="lib" path="lib/jetty/jetty-annotations-8.1.17.v20150415.jar"/>
+	<classpathentry kind="lib" path="lib/jetty/jetty-client-8.1.17.v20150415.jar"/>
+	<classpathentry kind="lib" path="lib/jetty/jetty-continuation-8.1.17.v20150415.jar"/>
+	<classpathentry kind="lib" path="lib/jetty/jetty-deploy-8.1.17.v20150415.jar"/>
+	<classpathentry kind="lib" path="lib/jetty/jetty-http-8.1.17.v20150415.jar"/>
+	<classpathentry kind="lib" path="lib/jetty/jetty-io-8.1.17.v20150415.jar"/>
+	<classpathentry kind="lib" path="lib/jetty/jetty-jmx-8.1.17.v20150415.jar"/>
+	<classpathentry kind="lib" path="lib/jetty/jetty-jndi-8.1.17.v20150415.jar"/>
+	<classpathentry kind="lib" path="lib/jetty/jetty-overlay-deployer-8.1.17.v20150415.jar"/>
+	<classpathentry kind="lib" path="lib/jetty/jetty-plus-8.1.17.v20150415.jar"/>
+	<classpathentry kind="lib" path="lib/jetty/jetty-policy-8.1.17.v20150415.jar"/>
+	<classpathentry kind="lib" path="lib/jetty/jetty-rewrite-8.1.17.v20150415.jar"/>
+	<classpathentry kind="lib" path="lib/jetty/jetty-security-8.1.17.v20150415.jar"/>
+	<classpathentry kind="lib" path="lib/jetty/jetty-server-8.1.17.v20150415.jar"/>
+	<classpathentry kind="lib" path="lib/jetty/jetty-servlet-8.1.17.v20150415.jar"/>
+	<classpathentry kind="lib" path="lib/jetty/jetty-servlets-8.1.17.v20150415.jar"/>
+	<classpathentry kind="lib" path="lib/jetty/jetty-util-8.1.17.v20150415.jar"/>
+	<classpathentry kind="lib" path="lib/jetty/jetty-webapp-8.1.17.v20150415.jar"/>
+	<classpathentry kind="lib" path="lib/jetty/jetty-websocket-8.1.17.v20150415.jar"/>
+	<classpathentry kind="lib" path="lib/jetty/jetty-xml-8.1.17.v20150415.jar"/>
+	<classpathentry kind="lib" path="lib/jetty/org.objectweb.asm-3.1.0.v200803061910.jar"/>
+	<classpathentry kind="lib" path="lib/jetty/servlet-api-3.0.jar"/>
+	<classpathentry kind="lib" path="lib/djNativeSwing/DJNativeSwing-SWT.jar"/>
+	<classpathentry kind="lib" path="lib/djNativeSwing/DJNativeSwing.jar"/>
+	<classpathentry kind="lib" path="lib/djNativeSwing/org.eclipse.swt.win32.win32.x86_64_3.103.2.v20150203-1351.jar"/>
+	<classpathentry kind="lib" path="lib/spring/spring-aop-4.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring/spring-aspects-4.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring/spring-beans-4.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring/spring-context-4.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring/spring-context-support-4.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring/spring-core-4.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring/spring-expression-4.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring/spring-instrument-4.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring/spring-instrument-tomcat-4.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring/spring-jdbc-4.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring/spring-jms-4.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring/spring-messaging-4.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring/spring-orm-4.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring/spring-oxm-4.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring/spring-test-4.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring/spring-tx-4.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring/spring-web-4.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring/spring-webmvc-4.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring/spring-webmvc-portlet-4.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring/spring-websocket-4.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/junit/junit.jar"/>
+	<classpathentry kind="lib" path="lib/junit/org.hamcrest.core_1.3.0.v201303031735.jar"/>
+	<classpathentry kind="lib" path="lib/jsch/jsch-0.1.53.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
